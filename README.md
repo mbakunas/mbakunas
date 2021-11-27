@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/mbakunas/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/mbakunas/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbakunas&theme=tokyonight" />
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbakunas&theme=vue-dark)](https://git.io/streak-stats)
+
 <p align = "left">
   <img
        src = "https://komarev.com/ghpvc/?username=mbakunas"
