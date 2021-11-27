@@ -23,11 +23,14 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbakunas&theme=tokyonight" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbakunas&theme=vue-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mbakunas&theme=vue-dark" />
+</a>
 
-<p align = "left">
-  <img
-       src = "https://komarev.com/ghpvc/?username=mbakunas"
-       alt = "mbakunas"
-   />
-</p>
+<!--
+<img
+     align="left"
+     src="https://komarev.com/ghpvc/?username=mbakunas"
+     alt="mbakunas"
+ />
+-->
