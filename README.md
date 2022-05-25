@@ -1,4 +1,6 @@
-### Hi, I'm Mark 👋</h1>
+### Hi, I'm Mark 👋
+
+I'm a cloud  architect at [Avanade](https://www.avanade.com/en-us/technologies/azure) specialzing in Azure infrastructure and infrastructure as code.
 
 <!--
 **mbakunas/mbakunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +19,6 @@ Here are some ideas to get you started:
 
 
 
-![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
 
  
