@@ -1,8 +1,4 @@
-<div align="center">
-  <h1> Hi, I'm Mark 👋</h1>
-</div>
-
-<br>
+### Hi, I'm Mark 👋</h1>
 
 <!--
 **mbakunas/mbakunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +19,4 @@ Here are some ideas to get you started:
 
 ![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
 
-<img
-       src="https://komarev.com/ghpvc/?username=mbakunas"
-       alt="mbakunas"
-   />
  
