@@ -2,23 +2,19 @@
 
 I'm a cloud  architect at [Avanade](https://www.avanade.com/en-us/technologies/azure) specialzing in Azure infrastructure and infrastructure as code.
 
-<!--
-**mbakunas/mbakunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
 
- 
+
+
+## Some fun facts:
+
+✨ While the majority of my career has been in operations or infdrastructure consulting, I dabble in development.
+
+✨ I have over 20 years experience in enterprise operations and consulting to large/global enterprises.
+
+✨ I obtained my first Azure certification in 2015.
+
+✨ I ❤ automating infrastructure deployments with IaC.
+
+
