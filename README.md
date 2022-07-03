@@ -8,8 +8,10 @@ I'm a cloud  architect at [Avanade](https://www.avanade.com/en-us/technologies/a
 - ☁️ I've been working in Azure for quite some time, and I obtained my first Azure certification in 2015.
 - 🪄 I ❤ automating infrastructure deployments with IaC.
 
-
 <!--
+![](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
+
+
 **mbakunas/mbakunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
