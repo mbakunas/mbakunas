@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a cloud  architect at [Avanade](https://www.avanade.com/en-us/technologies/azure) specialzing in Azure infrastructure and infrastructure as code.
+I am a cloud architect at [Avanade](https://www.avanade.com/en-us/technologies/azure) specializing in Azure infrastructure and infrastructure as code.
 
 
-- 🏢 While the majority of my career has been in operations or infrastructure consulting, I dabble in development.
-- 👷 I have over 20 years experience in enterprise operations and consulting to large/global enterprises.
-- ☁️ I've been working in Azure for quite some time, and I obtained my first Azure certification in 2015.
-- 🪄 I ❤ automating infrastructure deployments with IaC.
+- I have over 20 years' experience in enterprise IT operations and consulting :technologist: to large/global enterprises.
+- I've been working in Azure :cloud: for quite some time, and I obtained my first Azure certification in 2015.
+- While most of my career has been in operations or infrastructure consulting, I dabble in development.
+- I :hearts: automating infrastructure deployments with IaC.
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=mbakunas&count_private=true&show_icons=true&theme=tokyonight)
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...v
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
