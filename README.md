@@ -3,7 +3,7 @@
 I am a cloud architect at [Avanade](https://www.avanade.com/en-us/technologies/azure) specializing in Azure infrastructure and infrastructure as code.
 
 
-- I have over 20 years' experience in enterprise IT :technologist: operations and consulting to large/global enterprises.
+- I have over 20 years' experience in enterprise IT :technologist: operations and consulting to large/global companies.
 - I've been working in Azure :cloud: for quite some time, and I obtained my first Azure certification in 2015.
 - While most of my career has been in operations or infrastructure consulting, I dabble in development.
 - I :hearts: automating cloud infrastructure deployments with infrastructure as code (IaC).
